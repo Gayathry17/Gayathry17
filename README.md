@@ -1,13 +1,7 @@
 ### Hi there 🤪
 ## I'm Gayathry Suresh 🤎
 
-
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning Flutter 😁
-### 💬 Ask me about **Anything**
-### 📫 How to reach me: gayathrysuresh2000@gmail.com
-### ⚡ Fun fact: I'm Awesomeeeee!!  Hehehehehehe  😉
-### 💻 Visit my website [🌐](https://iamgayathrysuresh.web.app/)
+### Visit my website [🌐](https://iamgayathrysuresh.web.app/)
 
 
 <br> <br>
