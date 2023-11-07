@@ -1,5 +1,5 @@
-### Hi there 🤪
-## I'm Gayathry Suresh 🤎
+
+##  Gayathry here 
 
 ### Visit my website [🌐](https://iamgayathrysuresh.web.app/)
 
